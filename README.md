@@ -2,6 +2,8 @@
 
 静岡県・浜名湖のうなぎを紹介する静的サイトです。GitHub Pages で公開しています。
 
+本サイトは **DeepSeek V4.1 Flash 1017** によって作成されました。
+
 - **公開 URL**: https://katzkawai.org/kklab-ds-1017/ （GitHub Pages の `katzkawai.github.io/kklab-ds-1017/` はこちらへリダイレクトされます）
 - **リポジトリ**: `kklab-ds-1017`（ローカル・リモート共通）
 
@@ -42,6 +44,11 @@ python3 -m http.server 8765
 ## 公開について
 
 `main` ブランチのルートを GitHub Pages の公開元に設定しています。`main` へ push すると自動で反映されます。
+
+## 制作
+
+- 制作: **DeepSeek V4.1 Flash 1017**
+- 構成: HTML / CSS / JavaScript（静的サイト・ビルド不要）
 
 ## 補足
 

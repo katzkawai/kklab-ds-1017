@@ -1445,11 +1445,24 @@ body.menu-open .menu-btn span:last-child {
   gap: 32px;
   padding-top: 24px;
 }
+.footer__legal {
+  max-width: 760px;
+}
 .footer__bottom p {
   max-width: 760px;
   font-size: 10.5px;
   line-height: 1.8;
   color: rgba(246, 241, 230, 0.36);
+}
+.footer__bottom .footer__credit {
+  margin-top: 9px;
+  font-size: 10.5px;
+  letter-spacing: 0.08em;
+  color: rgba(246, 241, 230, 0.6);
+}
+.footer__credit span {
+  color: var(--gold-light);
+  font-weight: 500;
 }
 .footer__meta {
   display: flex;
